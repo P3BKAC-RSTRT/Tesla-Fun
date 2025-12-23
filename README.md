@@ -1,2 +1,2 @@
 # Tesla-Fun
-My Tesla projects for you to enjoy
+My public shared page
