@@ -1,4 +1,4 @@
-#All WRAPS ARE FOR MODEL 3 TESLA 2024+
+#All WRAPS ARE FOR TESLA MODEL 3 2024+ (Standard & Premium)
 
 
 # Custom Wrap Images for Tesla Vehicles
